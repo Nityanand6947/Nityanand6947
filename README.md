@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" style="width:1000px; height:auto;" />
+<img src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" style="width:1000px; height:300px;" />
 
 <h1 align="center">Hi 👋, I'm Nityanand Tamsoy</h1>
 <h3 align="center">A passionate java FullStack Developer and MERN Stack Developer</h3>
