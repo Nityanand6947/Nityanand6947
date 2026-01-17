@@ -1,10 +1,10 @@
 <img src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" style="width:1000px; height:320px;" />
 <h1 align="center">Hi 👋, I'm Nityanand Tamsoy</h1>
-<h3 align="center">A passionate java FullStack Developer and MERN Stack Developer</h3>
+<h3 align="center">A passionate Software Engineer working on Embedded and Automotive domain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityanand6947&label=Profile%20views&color=0e75b6&style=flat" alt="nityanand6947" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,Core Java,JDBC, Servlet,Hibernate,SpringBoot,Postman,Github,Maven Projects**
+- 💬 Ask me about **C++, QTCreator, Qt, Linux, gRPC, VSS, AOSP, Andriod Automotive, python, vs code, Scripting, CAN, I2C, UART, SPI, LDD**
 
 - 📫 How to reach me **nityanandtamsoy17@gmail.com**
 
