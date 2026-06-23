@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" style="width:100%; height:320px; object-fit:cover;" />
+<img src="https://github.com/Nityanand6947/Professional_Portfolio/blob/main/public/banner.png" style="width:100%; height:320px; object-fit:cover;" />
 
 <h1 align="center">Hi 👋, I'm Nityanand Tamsoy</h1>
 <h3 align="center">Software Engineer | C++ • Qt/QML • Linux • Automotive • Maritime • SDV</h3>
